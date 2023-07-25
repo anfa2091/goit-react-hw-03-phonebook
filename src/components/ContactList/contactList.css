@@ -1,0 +1,17 @@
+.contact-list {
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  padding: 0;
+}
+
+.contact-list-element {
+  display: flex;
+  gap: 5px;
+  justify-content: space-between;
+}
+
+button{
+  background-color: rgba(0, 128, 0, 0.3);
+  color: hsla(140, 40%, 30%);
+}
